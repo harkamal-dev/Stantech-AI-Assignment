@@ -1,0 +1,30 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h2{
+  text-align: center;
+  margin: 0.3rem;
+}
+
+.wrapper{
+  display: flex;
+  gap: 20px;
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column;
+  }
+}
+
+.summary_list{
+  width: 100%;
+}

@@ -1,0 +1,134 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Salary",
+      "amount": 5000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2023-07-01"
+    },
+    {
+      "id": "2",
+      "description": "Rent",
+      "amount": 1000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2023-07-02"
+    },
+    {
+      "id": "3",
+      "description": "Groceries",
+      "amount": 200,
+      "type": "expense",
+      "category": "Food",
+      "date": "2023-07-03"
+    },
+    {
+      "id": "5dd6",
+      "description": "hello",
+      "amount": 12,
+      "type": "expense",
+      "category": "Food",
+      "date": "2024-07-06"
+    },
+    {
+      "id": "62b5",
+      "description": "fff",
+      "amount": 23,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2024-07-06"
+    },
+    {
+      "id": "5f0d",
+      "description": "buba",
+      "amount": 12,
+      "type": "expense",
+      "category": "Food",
+      "date": "2024-07-06"
+    },
+    {
+      "id": "3752",
+      "description": "hello",
+      "amount": 14,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2024-07-06"
+    },
+    {
+      "id": "5112",
+      "description": "new ",
+      "amount": 12,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2024-07-06"
+    },
+    {
+      "id": "b909",
+      "description": "hi",
+      "amount": 15,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2024-07-06"
+    },
+    {
+      "id": "ee95",
+      "description": "hey",
+      "amount": 122,
+      "type": "income",
+      "category": "Housing",
+      "date": "2024-07-06"
+    },
+    {
+      "id": "f683",
+      "description": "new",
+      "amount": 222,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2024-07-06"
+    },
+    {
+      "id": "86d3",
+      "description": "ww",
+      "amount": 22,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2024-07-06T09:16:20.030Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Housing"
+    },
+    {
+      "id": "2",
+      "name": "Food"
+    },
+    {
+      "id": "3",
+      "name": "Transportation"
+    },
+    {
+      "id": "4",
+      "name": "Utilities"
+    },
+    {
+      "id": "5",
+      "name": "Entertainment"
+    },
+    {
+      "id": "6",
+      "name": "Healthcare"
+    },
+    {
+      "id": "7",
+      "name": "Salary"
+    },
+    {
+      "id": "8",
+      "name": "Other"
+    }
+  ]
+}
